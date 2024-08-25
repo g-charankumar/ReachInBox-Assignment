@@ -42,12 +42,7 @@ https://reachinbox-seven.vercel.app/
 
 
 ## Project Setup
-
-* git clone https://github.com/GaneshGourav/reachinbox-frontend-assignment.git
-* npm i
+* npm install
 * npm start
-
-## Feedback :
-Any feedback regarding improvement are welcome!
 
 ### Thank you !
